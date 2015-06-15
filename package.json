@@ -19,6 +19,8 @@
     "url": "https://github.com/vrrobz/descriptor_server/issues"
   },
   "dependencies": {
-    "express": "~4.12.4"
+    "express": "~4.12.4",
+    "express-logger": "0.0.3",
+    "body-parser": "~1.13.0"
   }
 }
